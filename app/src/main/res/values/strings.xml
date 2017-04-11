@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Penguin</string>
+    <string name="title_home">Home</string>
+    <string name="title_panda">Panda</string>
+    <string name="title_video">Video</string>
+    <string name="title_photo">Photo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
